@@ -99,8 +99,7 @@ iv)	Creating the new test cell view
   + Execute Output s—to be plotted – Select on Schematic
   + Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 - Execute Simulation -- Net list and Run
-
-![Screenshot 2024-08-28 014624](https://github.com/user-attachments/assets/1f75c603-41f9-4a33-bf87-691243edff0e)
+  ![Screenshot 2024-11-17 214540](https://github.com/user-attachments/assets/19236639-ab05-4353-9747-522f91964882)
 
 
 
